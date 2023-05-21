@@ -1,0 +1,25 @@
+/*......................*/
+/*........Variable..............*/
+/*......................*/
+
+
+
+
+* {
+font-family: "DejaVu Sans", sans-serif;
+font-size: 22px;
+}
+
+
+body {
+ background-color: #36ada5;
+
+}
+
+
+p.solid {
+    border-style: solid;
+    border: 40px solid red;
+    border-width: 10px;
+    
+}
